@@ -9,7 +9,7 @@ public class Numbers {
 		int d=400;
 
         int main=300;
-       int master=500;
+       int master=250;
 
 		System.out.println(a+b+c);
 
