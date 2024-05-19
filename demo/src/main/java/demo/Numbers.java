@@ -13,6 +13,10 @@ public class Numbers {
        int master=5000;
 
 
+
+       
+		String f="Priya";
+
 		System.out.println(a+b+c);
 
 	}
