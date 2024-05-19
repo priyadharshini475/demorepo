@@ -8,6 +8,7 @@ public class Numbers {
 		int c=30;
 		int d=400;
        int master=500;
+		String a="Priya";
 		System.out.println(a+b+c);
 
 	}
