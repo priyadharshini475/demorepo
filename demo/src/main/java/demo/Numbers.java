@@ -8,7 +8,7 @@ public class Numbers {
 		int c=30;
 
 		int d=400;
-
+        int main=300;
 		System.out.println(a+b+c);
 
 	}
